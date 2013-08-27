@@ -1,0 +1,7 @@
+.cache
+.classpath
+.project
+.worksheet
+target
+project/target
+project/project/target
